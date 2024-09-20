@@ -30,14 +30,14 @@ function TodoAdd({data,setData}) {
         value={name}
         onChange={handleName}
         name='name'
-        type="text" placeholder='Enter Something' className='w-full p-2 bg-[#373D35] text-white' />
+        type="text" placeholder='Enter Something' className='w-full p-2 bg-gray-200 dark:bg-[#373D35] text-black dark:text-white ' />
       </div>
       <div>
         <input
         value={date}
         onChange={handleDate}
         name='date'
-        type="date" className='w-full p-2 bg-[#373D35] text-white' />
+        type="date" className={`w-full p-2 bg-gray-200 dark:bg-[#373D35]  outline-2 dark:text-white text-black`} />
       </div>
       <div>
         <button className='bg-green-600 py-2 px-5 w-[50%] text-white font-bold rounded-md'>ADD</button>

@@ -9,10 +9,10 @@ function TodoData({item,data,setData}) {
     <>
     <div className='grid grid-cols-3 w-[50%] gap-5 items-center mx-auto mt-5'>
       <div>
-        <p className='text-white'>{item.todoName}</p>
+        <p className='text-black dark:text-white'>{item.todoName}</p>
       </div>
       <div>
-        <p className='text-white'>{item.todoDate}</p>
+        <p className='text-black dark:text-white'>{item.todoDate}</p>
       </div>
       <div>
         <button

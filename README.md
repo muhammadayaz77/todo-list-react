@@ -10,7 +10,7 @@ This project is a simple **Todo List** application built using **React**. It inc
 - **Delete Todo**: Users can delete tasks once completed.
 - **Dark Mode**: A theme toggle to switch between light and dark modes.
 ## Project domain Link
-todo-list-react-nu-henna.vercel.app
+https://todo-list-react-nu-henna.vercel.app/
 
 ## Project Preview
 ![react-tailwind-todo](https://github.com/user-attachments/assets/57adada1-c3fd-4f6b-b126-82cdd17615aa)

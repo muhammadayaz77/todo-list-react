@@ -1,4 +1,3 @@
-Here’s a theoretical `README.md` file that you can use as a template for your React Todo List project:
 
 ---
 
@@ -21,12 +20,12 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/react-todo-dark-theme.git
+   git clone https://github.com/muhammadayaz77/todo-list-react.git
    ```
 
 2. **Navigate into the project directory**:
    ```bash
-   cd react-todo-dark-theme
+   cd todo-list-react
    ```
 
 3. **Install dependencies**:
@@ -39,13 +38,13 @@ To run this project locally, follow these steps:
    npm start
    ```
 
-The project will be running at `http://localhost:3000`.
+The project will be running at `http://localhost:5173`.
 
 ## Usage
 
 - **Add a Todo**: Enter the task name in the input field and click the "Add" button.
 - **Delete a Todo**: Click the "Delete" button next to the task.
-- **Toggle Dark Mode**: Click the "Toggle Theme" button to switch between light and dark themes.
+- **Toggle Dark Mode**: Click the "DRK || LGT" button to switch between light and dark themes.
 
 ## Technologies Used
 - **React**: JavaScript library for building user interfaces.

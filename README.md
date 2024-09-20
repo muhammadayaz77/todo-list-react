@@ -12,8 +12,8 @@ This project is a simple **Todo List** application built using **React**. It inc
 - **Dark Mode**: A theme toggle to switch between light and dark modes.
 
 ## Project Preview
-![Todo List Demo](![react-tailwind-todo](https://github.com/user-attachments/assets/57adada1-c3fd-4f6b-b126-82cdd17615aa)
-) _(Replace with actual URL if you have a demo image)_
+![react-tailwind-todo](https://github.com/user-attachments/assets/57adada1-c3fd-4f6b-b126-82cdd17615aa)
+
 
 ## Installation
 
